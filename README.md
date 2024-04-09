@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">I work with this technologies</p>
+<h3 align="left">I work with this technologies</h3>
 
 ###
 
-<p align="left">scripting languages</p>
+<h2 align="left">scripting languages</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<p align="left">Cloud Platform</p>
+<h2 align="left">Cloud Platform</h2>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">Others</p>
+<h2 align="left">Others</h2>
 
 ###
 
